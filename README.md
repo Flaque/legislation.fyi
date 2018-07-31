@@ -1,4 +1,4 @@
-# Legislation.fyi
+# 🗳 Legislation.fyi
 
 ## Running
 
